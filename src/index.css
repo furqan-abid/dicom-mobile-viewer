@@ -24,9 +24,9 @@ body {
   border: 2px solid black;
 }
 
-.viewport-wrapper.active {
+/* .viewport-wrapper.active {
   border: 2px solid dodgerblue;
-}
+} */
 
 /* Custom Loader with animation */
 .lds-ripple {
